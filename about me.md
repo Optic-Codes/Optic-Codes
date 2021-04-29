@@ -2,7 +2,7 @@
 - 👀 I’m interested in codeing
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me dm CqD Optic on discord or email OpticCodes@gmail.com
+- 📫 How to reach me dm CqD Optic#3381 on discord or email OpticCodes@gmail.com
 
 <!---
 Optic-Codes/Optic-Codes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
